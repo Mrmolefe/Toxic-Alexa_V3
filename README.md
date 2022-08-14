@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F753EE&lines=Welcome+To+Toxic-Alexa_V3;This+Bot+is+Made+By+Mr_Molefe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F753EE&lines=Welcome+To+Toxic-Alexa_V3;This+Bot+is+Made+By+Molefe)](https://git.io/typing-svg)
 <div align="center">
         <img src="https://telegra.ph/file/98a4cce3428c086bd7451.jpg" alt="GIF" width="250" height="250"/>
 </p>
@@ -45,7 +45,7 @@ Project created by <a href="https://github.com/TURBOHYPER">Turbo</a> to make it 
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-AlexaV3?output%20only=1&lite=1#index.js)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Toxic-Alexa_V3) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mrmolefe/Toxic-Alexa_V3) 
 <br>
         
 1. Click [SCAN](https://replit.com/@TURBOHYPER/Toxic-AlexaV3?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
